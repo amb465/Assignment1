@@ -1,0 +1,7 @@
+Training KNN for Phishing
+Training Accuracy  : 0.9520936834634492
+Testing Accuracy  : 0.9087361419068736
+Time  : 1.199244299903512
+Confusion Matrix  : 
+[[5063  572]
+ [ 457 5183]]

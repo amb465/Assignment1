@@ -1,0 +1,70 @@
+Tuning SVM for Bean Classification with Linear Kernel - Shrinking
+C: 0.1 Accuracy: 0.9125661090124122 - Time: 54.956246700137854
+C: 0.5 Accuracy: 0.9125667835941715 - Time: 63.838451200164855
+C: 1 Accuracy: 0.9103615758229898 - Time: 65.05004709982313
+C: 1.5 Accuracy: 0.9129324069077172 - Time: 68.73787139984779
+C: 2 Accuracy: 0.9118335132218025 - Time: 78.60700060008094
+Tuning SVM for Bean Classification with Linear Kernel - No Shrinking
+C: 0.1 Accuracy: 0.9114651915812196 - Time: 579.9987188999075
+C: 0.5 Accuracy: 0.9122004856988667 - Time: 733.126625200035
+C: 1 Accuracy: 0.9103615758229896 - Time: 798.7100413998123
+C: 1.5 Accuracy: 0.9114651915812196 - Time: 777.9517101999372
+C: 2 Accuracy: 0.9147706422018349 - Time: 774.0763761999551
+Tuning SVM for Bean Classification with Polynomial Kernel, 3rd Degree - Shrinking
+C: 0.1 Accuracy: 0.6127779276848354 - Time: 0.5861543000210077
+C: 0.5 Accuracy: 0.6193868051807879 - Time: 0.5034914999268949
+C: 1 Accuracy: 0.6226915812196439 - Time: 0.47494210000149906
+C: 1.5 Accuracy: 0.6212230167296277 - Time: 0.4582438999786973
+C: 2 Accuracy: 0.6226922558014032 - Time: 0.4537508999928832
+Tuning SVM for Bean Classification with Polynomial Kernel, 3rd Degree - No Shrinking
+C: 0.1 Accuracy: 0.6127779276848354 - Time: 0.6209774001035839
+C: 0.5 Accuracy: 0.6193868051807879 - Time: 0.5015539999585599
+C: 1 Accuracy: 0.6226915812196439 - Time: 0.4817167001310736
+C: 1.5 Accuracy: 0.6212230167296277 - Time: 0.4658890999853611
+C: 2 Accuracy: 0.6226922558014032 - Time: 0.4570154999382794
+Tuning SVM for Bean Classification with Polynomial Kernel, 4th Degree - Shrinking
+C: 0.1 Accuracy: 0.60542970858068 - Time: 0.5825163999106735
+C: 0.5 Accuracy: 0.6120385860766324 - Time: 0.509790699928999
+C: 1 Accuracy: 0.617181597409606 - Time: 0.48241820000112057
+C: 1.5 Accuracy: 0.6186515110631409 - Time: 0.48060350003652275
+C: 2 Accuracy: 0.6171809228278468 - Time: 0.4639431000687182
+Tuning SVM for Bean Classification with Polynomial Kernel, 4th Degree - No Shrinking
+C: 0.1 Accuracy: 0.60542970858068 - Time: 0.5837783000897616
+C: 0.5 Accuracy: 0.6120385860766324 - Time: 0.508762100012973
+C: 1 Accuracy: 0.617181597409606 - Time: 0.4813433999661356
+C: 1.5 Accuracy: 0.6186515110631409 - Time: 0.4707698000129312
+C: 2 Accuracy: 0.6171809228278468 - Time: 0.4739935998804867
+Tuning SVM for Bean Classification with Polynomial Kernel, 5th Degree - Shrinking
+C: 0.1 Accuracy: 0.5797173502428494 - Time: 0.6005176999606192
+C: 0.5 Accuracy: 0.600288046411225 - Time: 0.5243267000187188
+C: 1 Accuracy: 0.606529276848354 - Time: 0.5041762001346797
+C: 1.5 Accuracy: 0.6098394495412844 - Time: 0.48111559986136854
+C: 2 Accuracy: 0.6087358337830546 - Time: 0.47956219990737736
+Tuning SVM for Bean Classification with Polynomial Kernel, 5th Degree - No Shrinking
+C: 0.1 Accuracy: 0.5797173502428494 - Time: 0.6056005998980254
+C: 0.5 Accuracy: 0.600288046411225 - Time: 0.5332857999019325
+C: 1 Accuracy: 0.606529276848354 - Time: 0.492345699807629
+C: 1.5 Accuracy: 0.6098394495412844 - Time: 0.48583059990778565
+C: 2 Accuracy: 0.6087358337830546 - Time: 0.4839416998438537
+Tuning SVM for Bean Classification with Polynomial Kernel, 10th Degree - Shrinking
+C: 0.1 Accuracy: 0.49228211009174316 - Time: 1.3571915999054909
+C: 0.5 Accuracy: 0.5484869131138694 - Time: 1.083848600042984
+C: 1 Accuracy: 0.5690623313545602 - Time: 1.2015178001020104
+C: 1.5 Accuracy: 0.5745797355639504 - Time: 1.1698696000967175
+C: 2 Accuracy: 0.5591399082568808 - Time: 1.3786771998275071
+Tuning SVM for Bean Classification with Polynomial Kernel, 10th Degree - No Shrinking
+C: 0.1 Accuracy: 0.49228211009174316 - Time: 4.029908600030467
+C: 0.5 Accuracy: 0.5484869131138694 - Time: 6.102528299903497
+C: 1 Accuracy: 0.5690623313545602 - Time: 7.159325299784541
+C: 1.5 Accuracy: 0.5745797355639504 - Time: 7.714113000081852
+C: 2 Accuracy: 0.5591399082568808 - Time: 12.03146139997989
+Kernel: linear - shrink - Score: 0.9129324069077172 with c value 1.5
+Kernel: linear - No shrink - Score: 0.9147706422018349 with c value 2
+Kernel: Poly - Degree: 3 - shrink - Score: 0.6226922558014032 with c value 2
+Kernel: Poly - Degree: 3 - No shrink - Score: 0.6226922558014032 with c value 2
+Kernel: Poly - Degree: 4 - shrink - Score: 0.6186515110631409 with c value 1.5
+Kernel: Poly - Degree: 4 - No shrink - Score: 0.6186515110631409 with c value 1.5
+Kernel: Poly - Degree: 5 - shrink - Score: 0.6098394495412844 with c value 1.5
+Kernel: Poly - Degree: 5 - No shrink - Score: 0.6098394495412844 with c value 1.5
+Kernel: Poly - Degree: 10 - shrink - Score: 0.5745797355639504 with c value 1.5
+Kernel: Poly - Degree: 10 - No shrink - Score: 0.5745797355639504 with c value 1.5

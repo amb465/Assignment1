@@ -1,0 +1,14 @@
+Tuning Boosting for Phishing with learning rate of 1  for unpruned tree
+Learning rate 1 for unpruned produced: 0.9059597142965117
+Learning rate 1 for pruned produced: 0.8892873789098422
+Tuning Boosting for Phishing with learning rate of 0.1  for unpruned tree
+Learning rate 0.1 for unpruned produced: 0.9088022624491391
+Learning rate 0.1 for pruned produced: 0.8981582958567955
+Tuning Boosting for Phishing with learning rate of 0.01  for unpruned tree
+Learning rate 0.01 for unpruned produced: 0.9091593918093295
+Learning rate 0.01 for pruned produced: 0.8910610584130103
+Tuning Boosting for Phishing with learning rate of 0.001  for unpruned tree
+Learning rate 0.001 for unpruned produced: 0.9134178602471561
+Learning rate 0.001 for pruned produced: 0.8701226962951767
+Best accuracy for unpruned tree was 0.9134178602471561 with learning rate of 0.001
+Best accuracy for pruned tree was 0.8981582958567955 with learning rate of 0.1

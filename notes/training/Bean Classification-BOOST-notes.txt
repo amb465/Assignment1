@@ -1,0 +1,12 @@
+Training BOOST for Bean Classification
+Training Accuracy  : 0.8945628214548126
+Testing Accuracy  : 0.8804297915327395
+Time  : 54.76215440011583
+Confusion Matrix  : 
+[[ 973    0   56    0    3    4   22]
+ [   2  412    3    0    0    0    0]
+ [  92    0 1172    0   23    2   15]
+ [   1    0    0 2502   10   41  283]
+ [  21    0   39    6 1429    1   46]
+ [  22    0    7  126    0 1434   33]
+ [  11    0    2  278   36  117 1665]]

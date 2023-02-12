@@ -1,0 +1,15 @@
+Training DT for Phishing
+Node Count  : 91
+Training Accuracy  : 0.9048970901348474
+Testing Accuracy  : 0.8975609756097561
+Time  : 0.015955300070345402
+Confusion Matrix  : 
+[[4934  701]
+ [ 454 5186]]
+Unrpuned Tree
+Node Count  : 593
+Training Accuracy  : 0.9048970901348474
+Testing Accuracy  : 0.8975609756097561
+Confusion Matrix  : 
+[[4934  701]
+ [ 454 5186]]

@@ -1,0 +1,25 @@
+Training DT for Bean Classification
+Node Count  : 195
+Training Accuracy  : 0.9529757531227039
+Testing Accuracy  : 0.8998989806226467
+Time  : 0.057438400108367205
+Confusion Matrix  : 
+[[ 918    0   84    1    4    7   44]
+ [   1  415    1    0    0    0    0]
+ [  58    5 1188    0   25    2   26]
+ [   0    0    0 2579   10   45  203]
+ [  20    1   23   10 1440    0   48]
+ [  17    0    0   64    0 1508   33]
+ [  24    0    5  258   38   33 1751]]
+Unrpuned Tree
+Node Count  : 387
+Training Accuracy  : 0.9529757531227039
+Testing Accuracy  : 0.8998989806226467
+Confusion Matrix  : 
+[[ 918    0   84    1    4    7   44]
+ [   1  415    1    0    0    0    0]
+ [  58    5 1188    0   25    2   26]
+ [   0    0    0 2579   10   45  203]
+ [  20    1   23   10 1440    0   48]
+ [  17    0    0   64    0 1508   33]
+ [  24    0    5  258   38   33 1751]]

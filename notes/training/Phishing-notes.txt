@@ -1,0 +1,7 @@
+Training DT for Phishing
+Training Accuracy  : 0.9127040454222853
+Testing Accuracy  : 0.9011086474501109
+Time  : 0.01193440007045865
+Confusion Matrix  : 
+[[5002  633]
+ [ 482 5158]]

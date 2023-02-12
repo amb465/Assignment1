@@ -1,0 +1,7 @@
+Training BOOST for Phishing
+Training Accuracy  : 0.9212207239176721
+Testing Accuracy  : 0.9045676274944567
+Time  : 12.641019300092012
+Confusion Matrix  : 
+[[5040  595]
+ [ 481 5159]]

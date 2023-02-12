@@ -1,0 +1,12 @@
+Training SVM for Bean Classification
+Training Accuracy  : 0.9166054371785451
+Testing Accuracy  : 0.9135825144641381
+Time  : 18.88537920010276
+Confusion Matrix  : 
+[[ 917    0   98    0    9    8   26]
+ [   1  415    1    0    0    0    0]
+ [  26    0 1242    0   23    2   11]
+ [   1    0    0 2595    6   36  199]
+ [   6    0   31   13 1465    0   27]
+ [  11    0    2   44    1 1508   56]
+ [  11    0    8  207   51   26 1806]]

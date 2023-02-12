@@ -1,0 +1,12 @@
+Training KNN for Bean Classification
+Training Accuracy  : 1.0
+Testing Accuracy  : 0.7350537239415924
+Time  : 0.34177180007100105
+Confusion Matrix  : 
+[[ 456    0  430    0  131    0   41]
+ [   0  415    2    0    0    0    0]
+ [ 302    0  919    0   77    1    5]
+ [   0    0    0 2491    1  168  177]
+ [  67    0   84   38 1088    3  262]
+ [   6    0    2  272   19  985  338]
+ [  15    0    4  241   93  106 1650]]

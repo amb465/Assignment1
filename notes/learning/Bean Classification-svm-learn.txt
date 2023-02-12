@@ -1,0 +1,45 @@
+1088 samples were used to train the model
+The average train accuracy is nan
+The average test accuracy is nan
+
+
+2177 samples were used to train the model
+The average train accuracy is 0.99
+The average test accuracy is 0.21
+
+
+3266 samples were used to train the model
+The average train accuracy is 0.97
+The average test accuracy is 0.27
+
+
+4355 samples were used to train the model
+The average train accuracy is 0.96
+The average test accuracy is 0.33
+
+
+5444 samples were used to train the model
+The average train accuracy is 0.97
+The average test accuracy is 0.44
+
+
+6532 samples were used to train the model
+The average train accuracy is 0.95
+The average test accuracy is 0.52
+
+
+7621 samples were used to train the model
+The average train accuracy is 0.95
+The average test accuracy is 0.61
+
+
+8710 samples were used to train the model
+The average train accuracy is 0.95
+The average test accuracy is 0.70
+
+
+9799 samples were used to train the model
+The average train accuracy is 0.95
+The average test accuracy is 0.75
+
+

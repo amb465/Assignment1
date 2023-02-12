@@ -1,0 +1,7 @@
+Training SVM for Phishing
+Training Accuracy  : 0.940028388928318
+Testing Accuracy  : 0.9068736141906873
+Time  : 0.5936497999355197
+Confusion Matrix  : 
+[[5047  588]
+ [ 462 5178]]

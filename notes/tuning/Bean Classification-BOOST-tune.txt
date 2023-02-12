@@ -1,0 +1,14 @@
+Tuning Boosting for Bean Classification with learning rate of 1  for unpruned tree
+Learning rate 1 for unpruned produced: 0.924692390717755
+Learning rate 1 for pruned produced: 0.7012641662169454
+Tuning Boosting for Bean Classification with learning rate of 0.1  for unpruned tree
+Learning rate 0.1 for unpruned produced: 0.9210186184565569
+Learning rate 0.1 for pruned produced: 0.8394481921208851
+Tuning Boosting for Bean Classification with learning rate of 0.01  for unpruned tree
+Learning rate 0.01 for unpruned produced: 0.9133014031300594
+Learning rate 0.01 for pruned produced: 0.6447375876956287
+Tuning Boosting for Bean Classification with learning rate of 0.001  for unpruned tree
+Learning rate 0.001 for unpruned produced: 0.9169758499730168
+Learning rate 0.001 for pruned produced: 0.5712621424716676
+Best accuracy for unpruned tree was 0.924692390717755 with learning rate of 1
+Best accuracy for pruned tree was 0.8394481921208851 with learning rate of 0.1

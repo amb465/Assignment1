@@ -1,0 +1,7 @@
+Training NN for Phishing
+Training Accuracy  : 0.8715400993612491
+Testing Accuracy  : 0.8731707317073171
+Time  : 2.464804799994454
+Confusion Matrix  : 
+[[4770  865]
+ [ 565 5075]]
